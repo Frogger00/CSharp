@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\p04-paga-trabajador.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\p04-paga-trabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\p04-paga-trabajador.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\p04-paga-trabajador.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\p04-paga-trabajador.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\bin\Debug\net7.0\p04-paga-trabajador.exe
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\bin\Debug\net7.0\p04-paga-trabajador.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\bin\Debug\net7.0\p04-paga-trabajador.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\bin\Debug\net7.0\p04-paga-trabajador.dll
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\bin\Debug\net7.0\p04-paga-trabajador.pdb
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\p04-paga-trabajador.dll
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\refint\p04-paga-trabajador.dll
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\p04-paga-trabajador.pdb
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\p04-paga-trabajador.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p04-paga-trabajador\obj\Debug\net7.0\ref\p04-paga-trabajador.dll
