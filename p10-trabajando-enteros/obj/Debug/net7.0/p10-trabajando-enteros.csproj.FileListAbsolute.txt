@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\bin\Debug\net7.0\p10-trabajando-enteros.exe
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\bin\Debug\net7.0\p10-trabajando-enteros.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\bin\Debug\net7.0\p10-trabajando-enteros.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\bin\Debug\net7.0\p10-trabajando-enteros.dll
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\bin\Debug\net7.0\p10-trabajando-enteros.pdb
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\p10-trabajando-enteros.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\p10-trabajando-enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\p10-trabajando-enteros.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\p10-trabajando-enteros.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\p10-trabajando-enteros.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\p10-trabajando-enteros.dll
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\refint\p10-trabajando-enteros.dll
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\p10-trabajando-enteros.pdb
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\p10-trabajando-enteros.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p10-trabajando-enteros\obj\Debug\net7.0\ref\p10-trabajando-enteros.dll

@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.exe
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.dll
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.pdb
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.dll
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\refint\p14-conversion-tipos.dll
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.pdb
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p14-conversion-tipos\obj\Debug\net7.0\ref\p14-conversion-tipos.dll

@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.exe
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.dll
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.pdb
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.dll
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\refint\p13-trabajando-caracter.dll
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.pdb
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p13-trabajando-caracter\obj\Debug\net7.0\ref\p13-trabajando-caracter.dll

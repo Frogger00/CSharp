@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\bin\Debug\net7.0\p12-trabajando-constantes.exe
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\bin\Debug\net7.0\p12-trabajando-constantes.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\bin\Debug\net7.0\p12-trabajando-constantes.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\bin\Debug\net7.0\p12-trabajando-constantes.dll
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\bin\Debug\net7.0\p12-trabajando-constantes.pdb
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\p12-trabajando-constantes.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\p12-trabajando-constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\p12-trabajando-constantes.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\p12-trabajando-constantes.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\p12-trabajando-constantes.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\p12-trabajando-constantes.dll
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\refint\p12-trabajando-constantes.dll
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\p12-trabajando-constantes.pdb
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\p12-trabajando-constantes.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p12-trabajando-constantes\obj\Debug\net7.0\ref\p12-trabajando-constantes.dll
