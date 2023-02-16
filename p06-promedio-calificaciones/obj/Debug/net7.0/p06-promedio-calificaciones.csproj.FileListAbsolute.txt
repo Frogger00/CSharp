@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.exe
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.dll
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.pdb
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.dll
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\refint\p06-promedio-calificaciones.dll
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.pdb
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p06-promedio-calificaciones\obj\Debug\net7.0\ref\p06-promedio-calificaciones.dll
