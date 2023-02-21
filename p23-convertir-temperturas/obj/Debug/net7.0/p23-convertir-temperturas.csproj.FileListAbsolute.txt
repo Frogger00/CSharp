@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\bin\Debug\net7.0\p23-convertir-temperturas.exe
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\bin\Debug\net7.0\p23-convertir-temperturas.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\bin\Debug\net7.0\p23-convertir-temperturas.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\bin\Debug\net7.0\p23-convertir-temperturas.dll
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\bin\Debug\net7.0\p23-convertir-temperturas.pdb
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\p23-convertir-temperturas.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\p23-convertir-temperturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\p23-convertir-temperturas.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\p23-convertir-temperturas.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\p23-convertir-temperturas.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\p23-convertir-temperturas.dll
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\refint\p23-convertir-temperturas.dll
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\p23-convertir-temperturas.pdb
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\p23-convertir-temperturas.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p23-convertir-temperturas\obj\Debug\net7.0\ref\p23-convertir-temperturas.dll

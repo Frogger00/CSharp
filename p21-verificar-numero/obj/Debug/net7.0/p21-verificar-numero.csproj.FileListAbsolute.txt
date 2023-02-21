@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\bin\Debug\net7.0\p21-verificar-numero.exe
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\bin\Debug\net7.0\p21-verificar-numero.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\bin\Debug\net7.0\p21-verificar-numero.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\bin\Debug\net7.0\p21-verificar-numero.dll
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\bin\Debug\net7.0\p21-verificar-numero.pdb
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\p21-verificar-numero.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\p21-verificar-numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\p21-verificar-numero.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\p21-verificar-numero.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\p21-verificar-numero.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\p21-verificar-numero.dll
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\refint\p21-verificar-numero.dll
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\p21-verificar-numero.pdb
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\p21-verificar-numero.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p21-verificar-numero\obj\Debug\net7.0\ref\p21-verificar-numero.dll

@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\bin\Debug\net7.0\p22-verificar-suma.exe
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\bin\Debug\net7.0\p22-verificar-suma.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\bin\Debug\net7.0\p22-verificar-suma.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\bin\Debug\net7.0\p22-verificar-suma.dll
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\bin\Debug\net7.0\p22-verificar-suma.pdb
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\p22-verificar-suma.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\p22-verificar-suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\p22-verificar-suma.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\p22-verificar-suma.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\p22-verificar-suma.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\p22-verificar-suma.dll
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\refint\p22-verificar-suma.dll
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\p22-verificar-suma.pdb
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\p22-verificar-suma.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p22-verificar-suma\obj\Debug\net7.0\ref\p22-verificar-suma.dll

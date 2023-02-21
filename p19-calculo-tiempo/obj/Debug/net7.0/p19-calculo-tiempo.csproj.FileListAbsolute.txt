@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\p19-calculo-tiempo.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\p19-calculo-tiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\p19-calculo-tiempo.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\p19-calculo-tiempo.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\p19-calculo-tiempo.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\bin\Debug\net7.0\p19-calculo-tiempo.exe
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\bin\Debug\net7.0\p19-calculo-tiempo.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\bin\Debug\net7.0\p19-calculo-tiempo.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\bin\Debug\net7.0\p19-calculo-tiempo.dll
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\bin\Debug\net7.0\p19-calculo-tiempo.pdb
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\p19-calculo-tiempo.dll
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\refint\p19-calculo-tiempo.dll
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\p19-calculo-tiempo.pdb
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\p19-calculo-tiempo.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p19-calculo-tiempo\obj\Debug\net7.0\ref\p19-calculo-tiempo.dll

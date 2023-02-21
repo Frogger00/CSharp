@@ -26,3 +26,17 @@ sebastianzarazua186@gmail.com
 - p12-trabajando-constantes
 - p13-trabajando-caracter
 - p14-conversion-tipos
+
+## Tarea 1 
+- p15-hipotenusa-triangulo
+- p16-calcular-angulo
+- p17-convertir-temperatura 
+- p18-volumen-cilindro
+- p19–calculo-tiempo
+- p20-convertir-a-dolares
+
+## Actividad 4 (21/02/2023)
+- p21-verifica-numero
+- p22-verifica-suma
+- p23-convertir-temperatura
+- p24-paga-extra

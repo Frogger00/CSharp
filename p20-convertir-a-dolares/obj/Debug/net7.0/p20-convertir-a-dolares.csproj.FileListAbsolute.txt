@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.exe
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.dll
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.pdb
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.dll
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\refint\p20-convertir-a-dolares.dll
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.pdb
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p20-convertir-a-dolares\obj\Debug\net7.0\ref\p20-convertir-a-dolares.dll

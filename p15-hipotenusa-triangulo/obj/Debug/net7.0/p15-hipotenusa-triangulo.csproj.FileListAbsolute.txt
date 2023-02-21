@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.exe
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.dll
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.pdb
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.dll
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\refint\p15-hipotenusa-triangulo.dll
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.pdb
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p15-hipotenusa-triangulo\obj\Debug\net7.0\ref\p15-hipotenusa-triangulo.dll
