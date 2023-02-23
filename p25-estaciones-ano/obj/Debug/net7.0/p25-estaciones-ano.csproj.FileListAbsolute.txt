@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\bin\Debug\net7.0\p25-estaciones-ano.exe
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\bin\Debug\net7.0\p25-estaciones-ano.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\bin\Debug\net7.0\p25-estaciones-ano.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\bin\Debug\net7.0\p25-estaciones-ano.dll
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\bin\Debug\net7.0\p25-estaciones-ano.pdb
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\p25-estaciones-ano.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\p25-estaciones-ano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\p25-estaciones-ano.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\p25-estaciones-ano.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\p25-estaciones-ano.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\p25-estaciones-ano.dll
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\refint\p25-estaciones-ano.dll
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\p25-estaciones-ano.pdb
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\p25-estaciones-ano.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p25-estaciones-ano\obj\Debug\net7.0\ref\p25-estaciones-ano.dll

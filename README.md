@@ -40,3 +40,9 @@ sebastianzarazua186@gmail.com
 - p22-verifica-suma
 - p23-convertir-temperatura
 - p24-paga-extra
+
+## Actividad 5 (23/02/2023)
+- p25-estaciones-ano
+- p26-tipo-angulo
+- p27-aceptar-estudiante
+- p28-ley-de-newton
