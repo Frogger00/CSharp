@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\bin\Debug\net7.0\p29-calculadora.exe
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\bin\Debug\net7.0\p29-calculadora.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\bin\Debug\net7.0\p29-calculadora.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\bin\Debug\net7.0\p29-calculadora.dll
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\bin\Debug\net7.0\p29-calculadora.pdb
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\p29-calculadora.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\p29-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\p29-calculadora.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\p29-calculadora.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\p29-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\p29-calculadora.dll
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\refint\p29-calculadora.dll
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\p29-calculadora.pdb
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\p29-calculadora.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p29-calculadora\obj\Debug\net7.0\ref\p29-calculadora.dll

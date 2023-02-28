@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\bin\Debug\net7.0\p32-pago-estacionamiento.exe
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\bin\Debug\net7.0\p32-pago-estacionamiento.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\bin\Debug\net7.0\p32-pago-estacionamiento.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\bin\Debug\net7.0\p32-pago-estacionamiento.dll
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\bin\Debug\net7.0\p32-pago-estacionamiento.pdb
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\p32-pago-estacionamiento.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\p32-pago-estacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\p32-pago-estacionamiento.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\p32-pago-estacionamiento.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\p32-pago-estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\p32-pago-estacionamiento.dll
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\refint\p32-pago-estacionamiento.dll
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\p32-pago-estacionamiento.pdb
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\p32-pago-estacionamiento.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\obj\Debug\net7.0\ref\p32-pago-estacionamiento.dll

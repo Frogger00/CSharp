@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\p31-numeros-romanos.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\p31-numeros-romanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\p31-numeros-romanos.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\p31-numeros-romanos.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\p31-numeros-romanos.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\bin\Debug\net7.0\p31-numeros-romanos.exe
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\bin\Debug\net7.0\p31-numeros-romanos.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\bin\Debug\net7.0\p31-numeros-romanos.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\bin\Debug\net7.0\p31-numeros-romanos.dll
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\bin\Debug\net7.0\p31-numeros-romanos.pdb
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\p31-numeros-romanos.dll
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\refint\p31-numeros-romanos.dll
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\p31-numeros-romanos.pdb
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\p31-numeros-romanos.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p31-numeros-romanos\obj\Debug\net7.0\ref\p31-numeros-romanos.dll
