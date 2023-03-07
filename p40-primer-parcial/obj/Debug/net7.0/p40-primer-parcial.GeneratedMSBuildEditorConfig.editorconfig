@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = p32_pago_estacionamiento
-build_property.ProjectDir = c:\Users\Zarazua\Desktop\CSharp\p32-pago-estacionamiento\
+build_property.RootNamespace = p40_primer_parcial
+build_property.ProjectDir = C:\Users\Zarazua\Desktop\CSharp\p40-primer-parcial\

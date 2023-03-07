@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\p39-repaso-primer-parcial.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\p39-repaso-primer-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\p39-repaso-primer-parcial.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\p39-repaso-primer-parcial.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\p39-repaso-primer-parcial.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\bin\Debug\net7.0\p39-repaso-primer-parcial.exe
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\bin\Debug\net7.0\p39-repaso-primer-parcial.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\bin\Debug\net7.0\p39-repaso-primer-parcial.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\bin\Debug\net7.0\p39-repaso-primer-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\bin\Debug\net7.0\p39-repaso-primer-parcial.pdb
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\p39-repaso-primer-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\refint\p39-repaso-primer-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\p39-repaso-primer-parcial.pdb
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\p39-repaso-primer-parcial.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p39-repaso-primer-parcial\obj\Debug\net7.0\ref\p39-repaso-primer-parcial.dll
