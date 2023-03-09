@@ -53,7 +53,7 @@ sebastianzarazua186@gmail.com
 - p31-numeros-romanos
 - p32-pago-estacionamiento
 
-## Tarea 2
+## Tarea 2 (28/02/2023)
 - p33-numeros-consecutivos
 - p34-numero-mayor
 - p35-continentes-mundo
