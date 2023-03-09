@@ -27,7 +27,7 @@ sebastianzarazua186@gmail.com
 - p13-trabajando-caracter
 - p14-conversion-tipos
 
-## Tarea 1 
+## Tarea 1 (16/02/2023)
 - p15-hipotenusa-triangulo
 - p16-calcular-angulo
 - p17-convertir-temperatura 
@@ -52,3 +52,18 @@ sebastianzarazua186@gmail.com
 - p30-dia-semana
 - p31-numeros-romanos
 - p32-pago-estacionamiento
+
+## Tarea 2
+- p33-numeros-consecutivos
+- p34-numero-mayor
+- p35-continentes-mundo
+- p36-compra-pizza
+- p37-calculo-notas
+- p38-aceptar-estudiante-v2
+
+## Actividad 7 (02/03/2023)
+- p39-repaso-primer-parcial
+
+## Primer Examen Parcial (07/03/2023)
+- p40-primer-parcial
+
