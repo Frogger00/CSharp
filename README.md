@@ -67,3 +67,10 @@ sebastianzarazua186@gmail.com
 ## Primer Examen Parcial (07/03/2023)
 - p40-primer-parcial
 
+## Actividad 8 (09/03/2023)
+- p41-numeros-1-a-10
+- p42-numeros-100-1
+- p43-procesa-calificaciones
+- p44-tabla-multiplicar
+- p45-conteo-numeros
+
