@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\bin\Debug\net7.0\p34-numero-mayor.exe
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\bin\Debug\net7.0\p34-numero-mayor.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\bin\Debug\net7.0\p34-numero-mayor.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\bin\Debug\net7.0\p34-numero-mayor.dll
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\bin\Debug\net7.0\p34-numero-mayor.pdb
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\p34-numero-mayor.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\p34-numero-mayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\p34-numero-mayor.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\p34-numero-mayor.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\p34-numero-mayor.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\p34-numero-mayor.dll
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\refint\p34-numero-mayor.dll
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\p34-numero-mayor.pdb
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\p34-numero-mayor.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p34-numero-mayor\obj\Debug\net7.0\ref\p34-numero-mayor.dll

@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\bin\Debug\net7.0\p37-calculo-notas.exe
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\bin\Debug\net7.0\p37-calculo-notas.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\bin\Debug\net7.0\p37-calculo-notas.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\bin\Debug\net7.0\p37-calculo-notas.dll
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\bin\Debug\net7.0\p37-calculo-notas.pdb
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\p37-calculo-notas.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\p37-calculo-notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\p37-calculo-notas.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\p37-calculo-notas.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\p37-calculo-notas.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\p37-calculo-notas.dll
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\refint\p37-calculo-notas.dll
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\p37-calculo-notas.pdb
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\p37-calculo-notas.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p37-calculo-notas\obj\Debug\net7.0\ref\p37-calculo-notas.dll

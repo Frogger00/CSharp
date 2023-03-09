@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\p36-compra-pizza.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\p36-compra-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\p36-compra-pizza.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\p36-compra-pizza.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\p36-compra-pizza.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\bin\Debug\net7.0\p36-compra-pizza.exe
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\bin\Debug\net7.0\p36-compra-pizza.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\bin\Debug\net7.0\p36-compra-pizza.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\bin\Debug\net7.0\p36-compra-pizza.dll
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\bin\Debug\net7.0\p36-compra-pizza.pdb
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\p36-compra-pizza.dll
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\refint\p36-compra-pizza.dll
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\p36-compra-pizza.pdb
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\p36-compra-pizza.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p36-compra-pizza\obj\Debug\net7.0\ref\p36-compra-pizza.dll
