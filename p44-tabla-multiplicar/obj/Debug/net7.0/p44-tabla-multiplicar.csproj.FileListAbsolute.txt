@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\p44-tabla-multiplicar.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\p44-tabla-multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\p44-tabla-multiplicar.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\p44-tabla-multiplicar.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\p44-tabla-multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\bin\Debug\net7.0\p44-tabla-multiplicar.exe
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\bin\Debug\net7.0\p44-tabla-multiplicar.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\bin\Debug\net7.0\p44-tabla-multiplicar.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\bin\Debug\net7.0\p44-tabla-multiplicar.dll
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\bin\Debug\net7.0\p44-tabla-multiplicar.pdb
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\p44-tabla-multiplicar.dll
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\refint\p44-tabla-multiplicar.dll
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\p44-tabla-multiplicar.pdb
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\p44-tabla-multiplicar.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p44-tabla-multiplicar\obj\Debug\net7.0\ref\p44-tabla-multiplicar.dll
