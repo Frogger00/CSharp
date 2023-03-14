@@ -1,4 +1,4 @@
-﻿// Imprime tabla de conversión de peso a dolar
+﻿// Imprime tabla de conversión temperatura
 int ini, fin;
 float c;
 char resp;

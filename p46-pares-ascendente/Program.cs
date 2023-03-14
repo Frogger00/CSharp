@@ -1,17 +1,18 @@
-﻿// Imprime números pares ascendente
-int n, c, s;
+﻿// Imprime los numeros pares de 2 a n, calcula su suma, el proceso se repite
+int c, n, s;
 char resp;
+
 do {
     Console.Clear();
-    Console.WriteLine("Imprime números pares ascendente\n");
-    Console.WriteLine("Hasta donde ? ");
+    Console.WriteLine("Imprime números pares de 2 a n, calcula su suma, el proceso se repite\n");
+    Console.WriteLine("Hasta donde deseas los pares? ");
     n = int.Parse(Console.ReadLine());
     s = 0;
     c = 2;
     while( c <= n ) {
         Console.Write($"{c} ");
-        s = s + c;
-        c = c + 2;
+        s += c;
+        c += 2;
     }
     Console.WriteLine($"La suma es {s}");
     Console.Write("\nDeseas continuar (S/N) ? ");

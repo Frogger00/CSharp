@@ -1,4 +1,4 @@
-﻿// Imprime la conjetura de collatz para un número entero positivo
+﻿// Imprime los primeros n numeros de la serie de fibonacci
 int n, count = 0, fibo = 0, fiboant = 0 , temp = 0;
 char resp;
 do {
