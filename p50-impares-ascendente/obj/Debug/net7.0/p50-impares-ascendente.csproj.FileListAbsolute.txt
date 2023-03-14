@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\bin\Debug\net7.0\p50-impares-ascendente.exe
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\bin\Debug\net7.0\p50-impares-ascendente.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\bin\Debug\net7.0\p50-impares-ascendente.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\bin\Debug\net7.0\p50-impares-ascendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\bin\Debug\net7.0\p50-impares-ascendente.pdb
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\p50-impares-ascendente.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\p50-impares-ascendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\p50-impares-ascendente.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\p50-impares-ascendente.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\p50-impares-ascendente.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\p50-impares-ascendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\refint\p50-impares-ascendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\p50-impares-ascendente.pdb
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\p50-impares-ascendente.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p50-impares-ascendente\obj\Debug\net7.0\ref\p50-impares-ascendente.dll

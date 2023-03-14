@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\bin\Debug\net7.0\p47-impares-descendente.exe
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\bin\Debug\net7.0\p47-impares-descendente.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\bin\Debug\net7.0\p47-impares-descendente.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\bin\Debug\net7.0\p47-impares-descendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\bin\Debug\net7.0\p47-impares-descendente.pdb
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\p47-impares-descendente.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\p47-impares-descendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\p47-impares-descendente.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\p47-impares-descendente.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\p47-impares-descendente.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\p47-impares-descendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\refint\p47-impares-descendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\p47-impares-descendente.pdb
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\p47-impares-descendente.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p47-impares-descendente\obj\Debug\net7.0\ref\p47-impares-descendente.dll

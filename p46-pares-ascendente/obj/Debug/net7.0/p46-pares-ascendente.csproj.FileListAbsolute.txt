@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\bin\Debug\net7.0\p46-pares-ascendente.exe
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\bin\Debug\net7.0\p46-pares-ascendente.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\bin\Debug\net7.0\p46-pares-ascendente.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\bin\Debug\net7.0\p46-pares-ascendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\bin\Debug\net7.0\p46-pares-ascendente.pdb
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\p46-pares-ascendente.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\p46-pares-ascendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\p46-pares-ascendente.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\p46-pares-ascendente.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\p46-pares-ascendente.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\p46-pares-ascendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\refint\p46-pares-ascendente.dll
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\p46-pares-ascendente.pdb
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\p46-pares-ascendente.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p46-pares-ascendente\obj\Debug\net7.0\ref\p46-pares-ascendente.dll

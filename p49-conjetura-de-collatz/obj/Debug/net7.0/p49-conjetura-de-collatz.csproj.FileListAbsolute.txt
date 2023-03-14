@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\bin\Debug\net7.0\p49-conjetura-de-collatz.exe
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\bin\Debug\net7.0\p49-conjetura-de-collatz.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\bin\Debug\net7.0\p49-conjetura-de-collatz.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\bin\Debug\net7.0\p49-conjetura-de-collatz.dll
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\bin\Debug\net7.0\p49-conjetura-de-collatz.pdb
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\p49-conjetura-de-collatz.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\p49-conjetura-de-collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\p49-conjetura-de-collatz.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\p49-conjetura-de-collatz.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\p49-conjetura-de-collatz.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\p49-conjetura-de-collatz.dll
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\refint\p49-conjetura-de-collatz.dll
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\p49-conjetura-de-collatz.pdb
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\p49-conjetura-de-collatz.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p49-conjetura-de-collatz\obj\Debug\net7.0\ref\p49-conjetura-de-collatz.dll

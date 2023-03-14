@@ -74,3 +74,14 @@ sebastianzarazua186@gmail.com
 - p44-tabla-multiplicar
 - p45-conteo-numeros
 
+## Actividad 9 (14/03/23)
+- p46–pares-ascendente
+- p47–impares-descendente
+- p48–tabla-de-conversion
+- p49–conjetura-de-collatz
+
+## Tarea 3 (14/03/2023)
+- p50-impares-ascendente 
+- p51-pares-descendente 
+- p52-conversion-temperaturas
+- p53-serie-fibonaci
