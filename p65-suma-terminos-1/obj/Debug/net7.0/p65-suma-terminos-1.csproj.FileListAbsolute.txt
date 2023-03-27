@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\p65-suma-terminos-1.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\p65-suma-terminos-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\p65-suma-terminos-1.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\p65-suma-terminos-1.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\p65-suma-terminos-1.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\bin\Debug\net7.0\p65-suma-terminos-1.exe
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\bin\Debug\net7.0\p65-suma-terminos-1.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\bin\Debug\net7.0\p65-suma-terminos-1.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\bin\Debug\net7.0\p65-suma-terminos-1.dll
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\bin\Debug\net7.0\p65-suma-terminos-1.pdb
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\p65-suma-terminos-1.dll
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\refint\p65-suma-terminos-1.dll
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\p65-suma-terminos-1.pdb
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\p65-suma-terminos-1.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p65-suma-terminos-1\obj\Debug\net7.0\ref\p65-suma-terminos-1.dll

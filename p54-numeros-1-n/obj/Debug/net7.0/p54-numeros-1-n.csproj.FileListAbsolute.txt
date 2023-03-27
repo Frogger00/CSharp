@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\bin\Debug\net7.0\p54-numeros-1-n.exe
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\bin\Debug\net7.0\p54-numeros-1-n.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\bin\Debug\net7.0\p54-numeros-1-n.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\bin\Debug\net7.0\p54-numeros-1-n.dll
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\bin\Debug\net7.0\p54-numeros-1-n.pdb
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\p54-numeros-1-n.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\p54-numeros-1-n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\p54-numeros-1-n.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\p54-numeros-1-n.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\p54-numeros-1-n.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\p54-numeros-1-n.dll
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\refint\p54-numeros-1-n.dll
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\p54-numeros-1-n.pdb
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\p54-numeros-1-n.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p54-numeros-1-n\obj\Debug\net7.0\ref\p54-numeros-1-n.dll

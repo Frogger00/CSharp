@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\bin\Debug\net7.0\p58-suma-promedio.exe
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\bin\Debug\net7.0\p58-suma-promedio.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\bin\Debug\net7.0\p58-suma-promedio.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\bin\Debug\net7.0\p58-suma-promedio.dll
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\bin\Debug\net7.0\p58-suma-promedio.pdb
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\p58-suma-promedio.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\p58-suma-promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\p58-suma-promedio.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\p58-suma-promedio.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\p58-suma-promedio.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\p58-suma-promedio.dll
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\refint\p58-suma-promedio.dll
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\p58-suma-promedio.pdb
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\p58-suma-promedio.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p58-suma-promedio\obj\Debug\net7.0\ref\p58-suma-promedio.dll

@@ -85,3 +85,30 @@ sebastianzarazua186@gmail.com
 - p51-pares-descendente 
 - p52-conversion-temperaturas
 - p53-serie-fibonaci
+
+## Actividad 10 (16/03/23)
+- p54-numeros-1-n
+- p55-numeros-n-1
+- p56-arriba-abajo
+- p57-suma-pares-impares
+- p58-suma-promedio
+
+## Actividad 11 (23/03/23)
+- p59-tablas-multiplicar
+- p60-piramide
+- p61-factorial-numeros
+- p62-suma-terminos
+
+## Tarea 4 (23/03/2023)
+- p63-secuencia-numeros-1
+- p64-secuencia-numeros-2
+- p65-suma-terminos-1
+- p66-suma-terminos-2
+
+## Actividad 12 (28/03/23)
+- p67-promedio-numeros
+- p68-conversion-temperaturas
+- p69-suma-rango
+- p70-tabla-multiplicar
+- p71-calificacion-letra
+

@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\bin\Debug\net7.0\p64-secuencia-numeros-2.exe
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\bin\Debug\net7.0\p64-secuencia-numeros-2.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\bin\Debug\net7.0\p64-secuencia-numeros-2.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\bin\Debug\net7.0\p64-secuencia-numeros-2.dll
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\bin\Debug\net7.0\p64-secuencia-numeros-2.pdb
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\p64-secuencia-numeros-2.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\p64-secuencia-numeros-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\p64-secuencia-numeros-2.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\p64-secuencia-numeros-2.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\p64-secuencia-numeros-2.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\p64-secuencia-numeros-2.dll
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\refint\p64-secuencia-numeros-2.dll
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\p64-secuencia-numeros-2.pdb
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\p64-secuencia-numeros-2.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p64-secuencia-numeros-2\obj\Debug\net7.0\ref\p64-secuencia-numeros-2.dll

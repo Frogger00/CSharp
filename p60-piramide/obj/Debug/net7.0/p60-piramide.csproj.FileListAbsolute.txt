@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\bin\Debug\net7.0\p60-piramide.exe
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\bin\Debug\net7.0\p60-piramide.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\bin\Debug\net7.0\p60-piramide.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\bin\Debug\net7.0\p60-piramide.dll
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\bin\Debug\net7.0\p60-piramide.pdb
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\p60-piramide.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\p60-piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\p60-piramide.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\p60-piramide.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\p60-piramide.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\p60-piramide.dll
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\refint\p60-piramide.dll
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\p60-piramide.pdb
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\p60-piramide.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p60-piramide\obj\Debug\net7.0\ref\p60-piramide.dll
