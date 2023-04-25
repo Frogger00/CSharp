@@ -1,5 +1,5 @@
 ﻿int[] cals = new int[100], mayor = new int[100];
-int num, suma = 0, tamj = 0, calif, veces = 0;
+int num, suma = 0, tamj = 0, calif, veces = 0, val = 1;
 float prom = 0.0f;
 char resp;
 do {
@@ -7,10 +7,15 @@ do {
     Console.Clear();
     Console.Write("Cuantos elementos deseas capturar? ");
     num = int.Parse(Console.ReadLine());
-    for(int i = 0; i < num; i++){
+    for(int i = 0; i < num; i = i){
         Console.Write($"Elemento {i+1}: ");
         cals[i] = int.Parse(Console.ReadLine());
-        suma += cals[i];
+        if((cals[i] < 10)||(cals[i] > 100))val = 0;
+        else val = 1;
+        if(val == 1){
+            suma += cals[i];
+            i++;
+        }
     }
     Console.WriteLine("\nLos elementos del arreglo son:");
     for(int i = 0; i < num; i++){
