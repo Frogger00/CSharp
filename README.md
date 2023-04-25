@@ -128,3 +128,6 @@ sebastianzarazua186@gmail.com
 
 ## Actividad 14 (20/04/23)
 - p82-repaso-parcial-2
+
+## Segundo Examen Parcial (25/04/2023)
+- p40-segundo-parcial
