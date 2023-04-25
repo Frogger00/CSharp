@@ -1,9 +1,9 @@
 ﻿int[] cals = new int[100], mayor = new int[100];
-int num, suma = 0, tamj = 0;
+int num, suma = 0, tamj = 0, calif, veces = 0;
 float prom = 0.0f;
 char resp;
 do {
-    suma = 0;
+    suma = 0; veces = 0;
     Console.Clear();
     Console.Write("Cuantos elementos deseas capturar? ");
     num = int.Parse(Console.ReadLine());
@@ -34,8 +34,15 @@ do {
     for(int i = 0; i < num; i++){
         Console.Write($"{100 - cals[i]} ");
     }
+    Console.WriteLine("\n\nContar calificacion:");
+    Console.Write("Cual calificacion? ");
+    calif = int.Parse(Console.ReadLine());
+    for(int i = 0; i < num; i++){
+        if(cals[i] == calif)veces++;
+    }
+    Console.WriteLine($"El {calif} aparece {veces} veces");
 
-    Console.Write("\n\nDeseas continuar (S/N)? ");
+    Console.Write("\nDeseas continuar (S/N)? ");
     resp = char.ToUpper(Console.ReadLine()[0]);
 } while( resp != 'N');
 Console.WriteLine("\nProceso Terminado...");
