@@ -130,4 +130,4 @@ sebastianzarazua186@gmail.com
 - p82-repaso-parcial-2
 
 ## Segundo Examen Parcial (25/04/2023)
-- p40-segundo-parcial
+- p83-segundo-parcial
