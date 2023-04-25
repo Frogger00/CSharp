@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.exe
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.pdb
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\refint\p83-segundo-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.pdb
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p83-segundo-parcial\obj\Debug\net7.0\ref\p83-segundo-parcial.dll
