@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\bin\Debug\net7.0\p75-factorial.exe
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\bin\Debug\net7.0\p75-factorial.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\bin\Debug\net7.0\p75-factorial.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\bin\Debug\net7.0\p75-factorial.dll
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\bin\Debug\net7.0\p75-factorial.pdb
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\p75-factorial.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\p75-factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\p75-factorial.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\p75-factorial.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\p75-factorial.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\p75-factorial.dll
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\refint\p75-factorial.dll
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\p75-factorial.pdb
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\p75-factorial.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p75-factorial\obj\Debug\net7.0\ref\p75-factorial.dll

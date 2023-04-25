@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\bin\Debug\net7.0\p82-repaso-parcial-2.exe
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\bin\Debug\net7.0\p82-repaso-parcial-2.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\bin\Debug\net7.0\p82-repaso-parcial-2.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\bin\Debug\net7.0\p82-repaso-parcial-2.dll
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\bin\Debug\net7.0\p82-repaso-parcial-2.pdb
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\p82-repaso-parcial-2.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\p82-repaso-parcial-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\p82-repaso-parcial-2.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\p82-repaso-parcial-2.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\p82-repaso-parcial-2.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\p82-repaso-parcial-2.dll
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\refint\p82-repaso-parcial-2.dll
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\p82-repaso-parcial-2.pdb
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\p82-repaso-parcial-2.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p82-repaso-parcial-2\obj\Debug\net7.0\ref\p82-repaso-parcial-2.dll

@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\bin\Debug\net7.0\p73-suma-digitos.exe
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\bin\Debug\net7.0\p73-suma-digitos.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\bin\Debug\net7.0\p73-suma-digitos.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\bin\Debug\net7.0\p73-suma-digitos.dll
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\bin\Debug\net7.0\p73-suma-digitos.pdb
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\p73-suma-digitos.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\p73-suma-digitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\p73-suma-digitos.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\p73-suma-digitos.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\p73-suma-digitos.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\p73-suma-digitos.dll
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\refint\p73-suma-digitos.dll
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\p73-suma-digitos.pdb
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\p73-suma-digitos.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p73-suma-digitos\obj\Debug\net7.0\ref\p73-suma-digitos.dll

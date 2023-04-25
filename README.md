@@ -112,3 +112,19 @@ sebastianzarazua186@gmail.com
 - p70-tabla-multiplicar
 - p71-calificacion-letra
 
+## Actividad 13 (30/03/23)
+- p72-mayor-tres-numeros
+- p73-suma-digitos
+- p74-suma-pares-impares
+- p75-factorial
+- p76-cuadro-caracter  
+
+## Tarea 5 (30/03/2023)
+- p77-numero-menor
+- p78-dia-semana 
+- p79-medidas-longitud  
+- p80-suma-multiplos
+- p81–angulo
+
+## Actividad 14 (20/04/23)
+- p82-repaso-parcial-2

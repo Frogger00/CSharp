@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.exe
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.dll
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.pdb
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.dll
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\refint\p79-medidas-longitud.dll
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.pdb
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p79-medidas-longitud\obj\Debug\net7.0\ref\p79-medidas-longitud.dll

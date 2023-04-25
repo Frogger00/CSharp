@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\p77-numero-menor.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\p77-numero-menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\p77-numero-menor.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\p77-numero-menor.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\p77-numero-menor.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\bin\Debug\net7.0\p77-numero-menor.exe
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\bin\Debug\net7.0\p77-numero-menor.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\bin\Debug\net7.0\p77-numero-menor.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\bin\Debug\net7.0\p77-numero-menor.dll
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\bin\Debug\net7.0\p77-numero-menor.pdb
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\p77-numero-menor.dll
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\refint\p77-numero-menor.dll
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\p77-numero-menor.pdb
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\p77-numero-menor.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p77-numero-menor\obj\Debug\net7.0\ref\p77-numero-menor.dll

@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\bin\Debug\net7.0\p74-suma-pares-impares.exe
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\bin\Debug\net7.0\p74-suma-pares-impares.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\bin\Debug\net7.0\p74-suma-pares-impares.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\bin\Debug\net7.0\p74-suma-pares-impares.dll
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\bin\Debug\net7.0\p74-suma-pares-impares.pdb
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\p74-suma-pares-impares.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\p74-suma-pares-impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\p74-suma-pares-impares.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\p74-suma-pares-impares.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\p74-suma-pares-impares.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\p74-suma-pares-impares.dll
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\refint\p74-suma-pares-impares.dll
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\p74-suma-pares-impares.pdb
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\p74-suma-pares-impares.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p74-suma-pares-impares\obj\Debug\net7.0\ref\p74-suma-pares-impares.dll

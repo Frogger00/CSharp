@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.exe
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.dll
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.pdb
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.dll
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\refint\p80-suma-multiplos.dll
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.pdb
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p80-suma-multiplos\obj\Debug\net7.0\ref\p80-suma-multiplos.dll
