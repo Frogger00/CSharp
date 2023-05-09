@@ -126,8 +126,16 @@ sebastianzarazua186@gmail.com
 - p80-suma-multiplos
 - p81–angulo
 
-## Actividad 14 (20/04/23)
-- p82-repaso-parcial-2
-
 ## Segundo Examen Parcial (25/04/2023)
+- p82-repaso-parcial-2
 - p83-segundo-parcial
+
+## Actividad 14 (02/05/23)
+- 84-empleado
+- 85-cuenta-bancaria-v1
+
+## Actividad 15 (04/05/23)
+- 86-cuenta-bancaria-v2
+
+## Actividad 14 (09/05/23)
+- 87-control-escolar
