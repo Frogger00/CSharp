@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSMONWZvGBziqfOBxCJMLoiIJqU+A9XgZGfFvFB202DgicdJE/QvhZv054wL99Vla0HiHjqj20SdqxPn/hVJYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zarazua\\Desktop\\CSharp\\p89-control-escolar-v3\\p89-control-escolar-v3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zarazua\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Zarazua\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

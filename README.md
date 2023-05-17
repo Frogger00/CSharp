@@ -137,5 +137,14 @@ sebastianzarazua186@gmail.com
 ## Actividad 15 (04/05/23)
 - 86-cuenta-bancaria-v2
 
-## Actividad 14 (09/05/23)
+## Actividad 16 (09/05/23)
 - 87-control-escolar
+
+## Actividad 17 (11/05/23)
+- 88-control-escolar-v2
+
+## Actividad 18 (16/05/23)
+- 89-control-escolar-v3
+
+## Tercer Examen Parcial (18/05/2023)
+- p90-tercer-parcial

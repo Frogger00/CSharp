@@ -1,0 +1,17 @@
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.exe
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.dll
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\bin\Debug\net7.0\p89-control-escolar-v3.pdb
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.csproj.CopyComplete
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.dll
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\refint\p89-control-escolar-v3.dll
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.pdb
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\p89-control-escolar-v3.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p89-control-escolar-v3\obj\Debug\net7.0\ref\p89-control-escolar-v3.dll

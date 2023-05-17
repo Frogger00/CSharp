@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\bin\Debug\net7.0\p88-control-escolar-v2.exe
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\bin\Debug\net7.0\p88-control-escolar-v2.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\bin\Debug\net7.0\p88-control-escolar-v2.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\bin\Debug\net7.0\p88-control-escolar-v2.dll
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\bin\Debug\net7.0\p88-control-escolar-v2.pdb
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\p88-control-escolar-v2.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\p88-control-escolar-v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\p88-control-escolar-v2.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\p88-control-escolar-v2.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\p88-control-escolar-v2.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\p88-control-escolar-v2.dll
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\refint\p88-control-escolar-v2.dll
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\p88-control-escolar-v2.pdb
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\p88-control-escolar-v2.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p88-control-escolar-v2\obj\Debug\net7.0\ref\p88-control-escolar-v2.dll
