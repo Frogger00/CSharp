@@ -1,0 +1,15 @@
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\p90-tercer-parcial.csproj.AssemblyReference.cache
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\p90-tercer-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\p90-tercer-parcial.AssemblyInfoInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\p90-tercer-parcial.AssemblyInfo.cs
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\p90-tercer-parcial.csproj.CoreCompileInputs.cache
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\bin\Debug\net7.0\p90-tercer-parcial.exe
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\bin\Debug\net7.0\p90-tercer-parcial.deps.json
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\bin\Debug\net7.0\p90-tercer-parcial.runtimeconfig.json
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\bin\Debug\net7.0\p90-tercer-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\bin\Debug\net7.0\p90-tercer-parcial.pdb
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\p90-tercer-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\refint\p90-tercer-parcial.dll
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\p90-tercer-parcial.pdb
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\p90-tercer-parcial.genruntimeconfig.cache
+C:\Users\Zarazua\Desktop\CSharp\p90-tercer-parcial\obj\Debug\net7.0\ref\p90-tercer-parcial.dll

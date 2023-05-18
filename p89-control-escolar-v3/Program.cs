@@ -9,6 +9,7 @@ void Inicializar() {
     Console.WriteLine("\n\nInicializando con datos de prueba -------------------->");
     if(escuela is null) {
         escuela = new Escuela(nombre:"Universidad Patito SA de CV", encargado:"Ing. Juan Perez", domicilio:"Av. de la Juventud 348");
+        
         escuela.AgregarProfesor(new Profesor(nombre:"Jose Diaz", fechaing:DateTime.Parse("1/1/2018"), grupo:"1A", materia:"Fisica",
         salario:1200));
         escuela.AgregarProfesor(new Profesor(nombre:"Maria Perez", fechaing:DateTime.Parse("10/2/2016"), grupo:"2A", materia:"Algebra",
@@ -17,6 +18,7 @@ void Inicializar() {
         salario:3800));
         escuela.AgregarProfesor(new Profesor(nombre:"Carlos Lopez", fechaing:DateTime.Parse("10/3/2016"), grupo:"8A", materia:"Química",
         salario:1000));
+        
         escuela.Profesores[0].AgregarAlumno(new Alumno( nombre:"Fatima Soto", edad:23, fechaing:DateTime.Parse("1/1/2019"), becado:true,
         califs:new List<int> {7,7,7}));
         escuela.Profesores[0].AgregarAlumno(new Alumno( nombre:"Damian Diaz", edad:25, fechaing:DateTime.Parse("1/1/2016"), becado:false,

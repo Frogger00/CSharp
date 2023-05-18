@@ -6,7 +6,9 @@ public class Escuela {
     public Escuela(){Profesores=new List<Profesor>();}
     public Escuela(string nombre,string encargado,string domicilio) : this() =>
         (Nombre,Encargado,Domicilio) = (nombre,encargado,domicilio);
+    
     public void AgregarProfesor(Profesor profesor) => Profesores.Add(profesor);
+    
     public int TotalAlumnos() {
         int c = 0;
         foreach(Profesor p in Profesores)
